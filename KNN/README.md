@@ -33,15 +33,16 @@ This makes KNN:
 
 ---
 
-##  Math Behind KNN
+## Math Behind KNN
 
 We use the **Euclidean distance**:
 
-\[
+$$
 d = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}
-\]
+$$
 
 Implemented manually using NumPy.
+
 
 ---
 
