@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithms-from-scratch
+# ML-Algorithms-from-scratch
