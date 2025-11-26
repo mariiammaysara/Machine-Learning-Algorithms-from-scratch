@@ -15,7 +15,7 @@ The goal of this repo is to **fully understand how ML works under the hood**, wi
 - Naive Bayes ✔️
 - Perceptron ✔️
 - Support Vector Machine ✔️
-- Decision Tree
+- Decision Tree ✔
 - Random Forest
 - Principal Component Analysis
 - K-Means Clustering
