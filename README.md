@@ -9,12 +9,12 @@ The goal of this repo is to **fully understand how ML works under the hood**, wi
 
 ##  Algorithm Roadmap
 
-- K-Nearest Neighbors
-- Linear Regression
-- Logistic Regression
-- Naive Bayes
-- Perceptron
-- Support Vector Machine
+- K-Nearest Neighbors ✔️
+- Linear Regression ✔️
+- Logistic Regression ✔️
+- Naive Bayes ✔️
+- Perceptron ✔️
+- Support Vector Machine ✔️
 - Decision Tree
 - Random Forest
 - Principal Component Analysis
