@@ -75,4 +75,8 @@ The notebook includes:
 - Data visualization with Matplotlib  
 
 ---
+##  Author
+
+Created by **Mariam Maysara**  
+Part of the *Machine Learning Algorithms From Scratch* series.
 
